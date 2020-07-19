@@ -1,9 +1,17 @@
-# python_crook
-A python based program designed to extract critical windows PC information in a minute!
-This tool is fully automated and uses windows CMD commands to extract information and store them in a folder and zip file.
+# python crook
+_A python :snake: based program designed to extract critical windows PC information in some minutes!_
 
-This app is still under developement. If this app crashes in your computer or even gets detected by AV's, do let me know about. I'll try my best to fix it.
-
-Future updates for python_crook 1.1v:
-1. Option to apply password to zip file.
-2. Launching program with user defined attributes.
+* This tool is fully automated and uses windows CMD commands to extract information and store them in a folder and zip file.
+* You get below information
+  * ARP :fishing_pole_and_fish:
+  * DriverQuery :information_source:
+  * Disk & Drive info :cd:
+  * Hostname :question:
+  * IPCONFIG :satellite:
+  * NSLOOKUP :eyes:
+  * schtasks :heavy_check_mark:
+  * Tasklist :clipboard:
+  * WMIC
+      * CPU info :boom:
+      * Monitor :tv:
+      * OS :computer:
